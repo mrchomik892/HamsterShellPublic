@@ -1,6 +1,6 @@
 color 1F
 echo Welcome to HamsterShell!
-:dupa
+:acocieto
 set /p cmd=HS %cd% 
 %cmd%
-GOTO dupa
+GOTO acocieto
