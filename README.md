@@ -4,7 +4,8 @@ HamsterShell is my 2nd repositorium on github.
 HamsterShell is a command prompt on MIT License.
 HamsterShell is on github, because is opensource.
 ## Checksums
-Please Note: MD5 Checksums are not secure
+PS: MD5 Checksums are not secure
+PPS: We recommend to use Checksums
 HamsterShell GitHub.exe
 MD5 Checksum: E4E6F03B7F9AF57B3B39A782765ECDEF
 SHA-1 Checksum: EB6966BF4C98D33B56FDB49DFB16742F6794BBEB
