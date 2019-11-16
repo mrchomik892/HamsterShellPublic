@@ -5,7 +5,7 @@ cls
 color 4
 echo HamsterShell(C) by Chomiczeq20
 echo HamsterShell is on License...
-echo MIT License
+echo GPLv3
 echo Do you readed the License?
 echo Disagree = Close program
 echo Agree = Any key
