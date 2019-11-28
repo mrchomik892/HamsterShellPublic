@@ -9,5 +9,11 @@ echo GPLv3
 echo Do you readed the License?
 echo Disagree = Close program
 echo Agree = Any key
-timeout /t 50
+pause
 hamster.bat
+color 1F
+echo Welcome to HamsterShell!
+:acocieto
+set /p cmd=HS %cd% 
+%cmd%
+GOTO acocieto
