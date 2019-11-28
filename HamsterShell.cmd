@@ -3,7 +3,7 @@ cls
 echo off
 cls
 color 4
-echo HamsterShell(C) v0.2 by Chomiczeq20
+echo [101;93m HamsterShell(C) v0.2 by Zdziwiony Rysiczeq [0m
 echo HamsterShell is on License...
 echo GPLv3
 echo Do you readed the License?
